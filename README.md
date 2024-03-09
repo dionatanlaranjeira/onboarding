@@ -1,16 +1,13 @@
-# onboarding_flutter
+# Onboarding
 
-A new Flutter project.
+Projeto Flutter: página onboarding
 
-## Getting Started
+Este é um projeto pessoal desenvolvido em Flutter para praticar e estudar a implementação de uma página de onboarding em um aplicativo.
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- Implementa telas introdutórias para orientar os usuários sobre os recursos do aplicativo.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contato
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato através do email: [dionatanribeiro.netrr@gmail.com](mailto:dionatanribeiro.netrr@gmail.com)
